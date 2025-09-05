@@ -4,6 +4,8 @@
 
 **基于 [0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727) 二次开发 | 作者：一只鱼（Bifishone） | 仓库地址：[Bifishone/ShuiZe](https://github.com/Bifishone/ShuiZe)**
 
+> 经过亲测，在Windows下直接下载运行，无报错！！！
+
 <img width="997" height="575" alt="images" src="https://github.com/user-attachments/assets/9269a7ac-e323-409a-b60b-e7bca584d7cd" />
 
 
